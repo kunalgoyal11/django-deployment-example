@@ -28,7 +28,7 @@ SECRET_KEY = 'm_pw8%=h%%sd3ucffj&-^0z)sea%i*o9)7xu(&e8-##+wcx!8a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kunalgoyal11.pythonanywhere.com',]
 
 
 # Application definition
